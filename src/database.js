@@ -1,3 +1,5 @@
+// Database connector and disconnector for the project
+
 const mongoose = require('mongoose');
 
 // Connect to DB
